@@ -1,0 +1,4 @@
+Flask==3.0.3
+google_api_python_client==2.139.0
+protobuf==5.27.3
+Werkzeug==3.0.3

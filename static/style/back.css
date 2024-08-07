@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url('../images/download (1).jpeg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial, sans-serif';
+}
+
+html {
+    height: 100%;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3em;
+    color: #4A4A4A;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    color: #333;
+}
+
+p {
+    font-size: 1.5em;
+    margin: 0;
+    color: #333;
+}
+
+.date {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #4A4A4A;
+}
+
+.date span {
+    display: block;
+    font-size: 1.5em;
+    color: #4A4A4A;
+}
